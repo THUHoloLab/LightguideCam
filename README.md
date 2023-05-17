@@ -1,5 +1,5 @@
 # Toward a see-through camera via AR lightguide
-authors: Yuchen Ma (mayc22@mails.tsinghua.edu.cn), Yunhui Gao(gyh21@mails.tsinghua.edu.cn), Jiachen Wu(wjc2022@tsinghua.edu.cn), and Liangcai Cao(clc@tsinghua.edu.cn)
+authors: Yuchen Ma (mayc22@mails.tsinghua.edu.cn), Yunhui Gao(gyh21@mails.tsinghua.edu.cn), Jiachen Wu(wjc2022@tsinghua.edu.cn) and Liangcai Cao(clc@tsinghua.edu.cn)
 
 The article can be accessed at https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-11-2809&id=530696###
 
