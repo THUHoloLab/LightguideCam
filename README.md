@@ -1,4 +1,6 @@
-# See-through camera based on an AR lightguide
+# Toward a see-through camera via AR lightguide
+
+This article can be accessed at https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-11-2809&id=530696###
 
 ## Usage
 Run `rec_FISTA2D_main.m`
